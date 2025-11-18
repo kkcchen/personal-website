@@ -2,6 +2,4 @@
 
 Student at the University of Toronto.
 
-Engineering, Machine Learning Major.
-
-Bioengineering Minor.
+Engineering, Machine Learning Major, Bioengineering Minor.
