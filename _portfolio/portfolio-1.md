@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Foundation Model for human gut microbiome"
+excerpt: "<br>pretraining on a large dataset of human gut microbiome, 16S sequenced.<br/>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Done at Vector Institute summer 2025, as well for undergraduate thesis.
+[GitHub Repository](https://github.com/kkcchen/gut_microbiome_GPT)
